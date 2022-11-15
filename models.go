@@ -262,4 +262,4 @@ type PostalCode struct {
 type PostalCodeList struct {
 	Find_Part string       `json:"findpart"`
 	List      []PostalCode `json:"list"`
-}
+} // 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
