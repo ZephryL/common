@@ -1,4 +1,4 @@
-module common
+module github.com/zephryl/common
 
 go 1.19
 
